@@ -1,6 +1,6 @@
 var ethplorerClient = require('ethplorer-node');
 // Public API
-var api_key = "EK-xanJm-xEtLWEs-wCGUs";
+var api_key = "free_api";
 var client = new ethplorerClient();
 var client = new ethplorerClient(api_key);
 var limit="15";
